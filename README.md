@@ -6,3 +6,5 @@
 все файлы с расширением .tfvars;  
 файлы override.tf, override.tf.json, а также с именами заканчивающемися на _override.tf и _override.tf.json;  
 конфигурационные файлы CLI с именами .terraformrc и terraform.rc;  
+  
+pycharm  
